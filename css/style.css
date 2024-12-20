@@ -1,0 +1,9 @@
+.main_game{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid chocolate;
+    gap: 10px;
+}
